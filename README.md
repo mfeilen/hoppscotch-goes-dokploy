@@ -12,7 +12,7 @@ After some brief document checking and testing I came up with the following [Dok
 * Deploy the container
 * Get the container ID from the hoppscotch/hoppscotch:latest
 * Run the database migration using `docker exec -it ... `
-* Start configure the admin backend on https://yourdomain.com/admin
+* Start configure the admin backend on https://apitester.mydomain.com/admin
 
 ### Optional add Basic auth
 * Add the basic auth
